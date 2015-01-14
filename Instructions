@@ -1,0 +1,21 @@
+Terrain Generator
+Created by:
+Meet Pandya 1214306
+Sahajmeet Bhutta 1223708
+
+INSTRUCTIONS:
+1. I have written my Terrain.cpp file in Eclipse and that's where I was compiling it from.
+2. All my work for this assignment, I have done it on Ubuntu. 
+3. I have also created the makefile
+
+  Assistance for the snowman was provided by the snowman code from Dr. Teather
+  Assistance for the lighting was supported by the Teapot code from Dr. Teather
+  Assistance for the light colors was provided by:
+       		https://www.opengl.org/discussion_boards/showthread.php/132502-Color-tables
+  Assistance for the calculation of the cross product was given by:
+       		http://www.mathsisfun.com/algebra/vectors-cross-product.html
+  Assistance for the multi-window aspect was provided by:
+       		http://deslab.mit.edu/DesignLab/courses/13.016/graphics/multi.html
+  Assistance for the fault and the circle algorithm was provided by:
+       		http://www.lighthouse3d.com/opengl/terrain/index.php3?circles
+
