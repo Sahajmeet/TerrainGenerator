@@ -4,9 +4,9 @@ Meet Pandya 1214306
 Sahajmeet Bhutta 1223708
 
 INSTRUCTIONS:
-1. I have written my Terrain.cpp file in Eclipse and that's where I was compiling it from.
-2. All my work for this assignment, I have done it on Ubuntu. 
-3. I have also created the makefile
+1. We have written  Terrain.cpp file in Eclipse and that's where it was compiled from.
+2. All work for this assignment was done on Ubuntu. 
+3. We have also created the makefile
 
   Assistance for the snowman was provided by the snowman code from Dr. Teather
   Assistance for the lighting was supported by the Teapot code from Dr. Teather
